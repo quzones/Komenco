@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEsbSq4d7aFy0voSHN4UVuKZURGaar9TmMvf2AJx+0DkKw2f/DyrP87Q0l/jIxvD9t6lYLI8t2SFxtPVEAmUVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Quantum Simulators\\workspace\\Komenco\\komenco-github-workspace\\HelloWorldKomencoNative\\HelloWorldKomencoNative.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adityayadav76\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512",
+    "C:\\Users\\adityayadav76\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\adityayadav76\\.nuget\\packages\\xplot.plotly\\4.1.0\\xplot.plotly.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

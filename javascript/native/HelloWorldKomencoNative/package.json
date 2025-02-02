@@ -1,0 +1,16 @@
+{
+  "name": "helloworldkomenconative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorldKomencoNative.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bignumber.js": "^9.1.2",
+    "quickchart-js": "^3.1.3"
+  }
+}

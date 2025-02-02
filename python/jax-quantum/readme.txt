@@ -1,0 +1,1 @@
+> pip install jax==0.4.21 jaxlib==0.4.21 optax tensorflow_datasets tensorflow scipy==1.12.0

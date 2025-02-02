@@ -1,0 +1,18 @@
+This is an SDK for our Komenco Quantum Simulator. Its an entry level product that can support upto 30-33 Qubits and gives reasonable results. And is very light on the pocket even if you want a dedicated instance. So its a great way for a company or a university to get started.
+
+The IP Address included in this SDK points to a Trial Version of the Komenco Quantum Simulator. Which supports only 15 Qubits and is a shared instance which is just meant to be used to get a feel of what Quantum Computing is all about. Using Quantum Circuit and Gate based Quantum Computers and Quantum Simulators.
+
+Typically customers who want to seriously adopt Quantum Computing would normally purchase one or more instances of our dedicated Quantum Simulators which support ~300 Qubits or our Quantum Computers which support Millions of "Logical" Qubits. So these are the best options to go with.
+
+But Quantum Simulators and Computers are expensive they cost double or triple digit millions of dollars. 
+
+These are some of our offerings:
+
+Komenco - tiny entry level simulator 30-33 Qubits 
+Anhelo - production grade simulator ~300 Qubits
+Querido - quantum AI 1000 Logical Qubits
+Simpático - quantum computer
+Encantado - quantum gravity computer 
+Carero - Quantum Annealer 
+
+1 Week Trials of Anhelo (50 Qubits) and Carero (1m Qubits QUBO, QAOA, ISING Solver) is available exclusively for existing customers of our Komenco SDK.
