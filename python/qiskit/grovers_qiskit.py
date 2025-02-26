@@ -12,7 +12,7 @@ sys.path.append('../')
 from AutomatskiKomencoQiskit import *
 
 # Run the Circuit using Automatski' Quantum Simulators and Quantum Computers
-# No need for transpiling with any transpiler
+# No need for transpiling with any transpiler 
 backend = AutomatskiKomencoQiskit(host="103.212.120.18", port=80)
 
 
@@ -73,7 +73,7 @@ qc.measure_all()
 qc.draw(output="mpl", style="iqp")
 plt.show()
 
-qc = qc.decompose()
+qc = qc.decompose().decompose()
 
 result_sim = backend.run(qc, repetitions=1000, topK=20)
 counts = result_sim.get_counts(None)

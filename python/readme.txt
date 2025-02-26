@@ -8,7 +8,7 @@ Open a command prompt and type
 >   conda init
 [This will initialize conda]
 Close the command prompt and open a new command prompt and proceed
-
+ 
 (2) Create a Conda Environment
 
 >	mkdir c:\automatski

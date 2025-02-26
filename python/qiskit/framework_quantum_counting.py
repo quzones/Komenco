@@ -4,10 +4,10 @@ n = 4
 print_oracle = True
 
 quantum_counting_qc = quantum_counting(n, [print_oracle])
-
-decomposed_circuit = decomposer(quantum_counting_qc, 1)
-decomposed_circuit.draw("mpl")
+quantum_counting_qc.draw("mpl")
 plt.show()
+decomposed_circuit = decomposer(quantum_counting_qc, 2)
+
 
 
 import sys

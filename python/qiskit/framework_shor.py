@@ -15,7 +15,7 @@ sys.path.append('../')
 from AutomatskiKomencoQiskit import *
 
 # Run the Circuit using Automatski' Quantum Simulators and Quantum Computers
-# No need for transpiling with any transpiler
+# No need for transpiling with any transpiler 
 backend = AutomatskiKomencoQiskit(host="103.212.120.18", port=80)
 
 qc = decomposed_circuit # Automatski Backends can only run fully decomposed circuits. They cannot execute circuits with sub-circuits 

@@ -5,6 +5,7 @@ oracle = 'random'
 print_oracle=True
 
 simon_qc = simon(n, [oracle, print_oracle])
+simon_qc.measure_all()
 
 decomposed_circuit = decomposer(simon_qc, 1)
 decomposed_circuit.draw("mpl")
